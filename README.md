@@ -2,7 +2,7 @@
 <h2 align="left">🧑🏽 Sobre mí:</h2>
   <ul>
     <li>🦆 Los patos son el mejor animal de mundo</li>
-    <li>🎮 Fanatico del anime y los videojuegos. </li>
+    <li>🎮 Fanático del anime y los videojuegos. </li>
     <li>📝 Estudiando Desarrollo de aplicaciones web.</li>
   </ul>
 
