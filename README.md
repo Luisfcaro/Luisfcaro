@@ -31,10 +31,10 @@
       <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/> 
       </a>
-<!--       <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+      <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" width="40" height="40"/> 
       </a>
-      <a href="https://es.react.dev/" target="_blank" rel="noreferrer"> 
+<!--       <a href="https://es.react.dev/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> 
       </a>  -->
     </th>
@@ -45,13 +45,13 @@
       <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="nodejs" width="80" height="40"/> 
       </a>
-<!--       <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="laravel" width="60" height="40"/> 
+      <a href="https://symfony.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" alt="symfony" width="60" height="40"/> 
       </a>
       <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring-boot" width="40" height="40"/> 
       </a> 
-      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+<!--       <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/> 
       </a>
       <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
